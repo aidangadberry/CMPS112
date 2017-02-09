@@ -1,5 +1,5 @@
 # Comparative Programming Languages
-- Alan Pang - Winter 2014
+- Cormac Flanagan - Winter 2016
 - https://courses.soe.ucsc.edu/courses/cmps112
 - https://classes.soe.ucsc.edu/cmps112/Winter16/
 
